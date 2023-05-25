@@ -1,0 +1,1 @@
+UPDATE transaction SET jumlah = 4, total_price = 180000 WHERE id = 1;
